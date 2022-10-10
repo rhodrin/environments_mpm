@@ -1,1 +1,5 @@
 numpy>1.16
+scipy
+Matplotlib
+sympy
+Pandas
