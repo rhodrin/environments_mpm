@@ -1,8 +1,9 @@
 name: mpm-lecture
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
-  - python=3.13
+  - python=3.14
   - pip
   - numpy>=2.1
   - matplotlib>=3.10
