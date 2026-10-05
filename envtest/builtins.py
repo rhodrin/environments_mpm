@@ -10,3 +10,4 @@ def rand_array(shape):
 
 def smooth_image(a, sigma=1):
     return gaussian_filter(a, sigma=sigma)
+    return gaussian_filter(a, sigma=sigma)
