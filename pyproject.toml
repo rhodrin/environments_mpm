@@ -12,4 +12,7 @@ dependencies = [
   "matplotlib>=3.10"，
   "scipy",
   "scikit-image"
+  "matplotlib>=3.10",
+  "scipy",
+  "scikit-learn"
 ]
