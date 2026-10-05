@@ -3,3 +3,5 @@ matplotlib>=3.10
 
 scipy
 scikit-image
+scipy
+scikit-learn
