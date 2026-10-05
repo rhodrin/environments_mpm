@@ -1,0 +1,3 @@
+.vscode
+envtest/__pycache__
+envtest.egg-info/
