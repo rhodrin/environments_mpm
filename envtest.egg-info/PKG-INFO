@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: envtest
+Version: 0.1.0
+Summary: Demo package for environments lecture
+Requires-Python: >=3.11
+Requires-Dist: numpy>=2.1
+Requires-Dist: matplotlib>=3.10
